@@ -4,8 +4,6 @@
 Este paquete permite la integración de la cámara de profundidad en ROS 2. 
 Incluye configuración automática y soporte para arquitecturas x86 (PC) y ARM64 (Raspberry Pi).
 
-![RViz Preview](rviz_preview.png)
-
 ## 1. Instalación y Clonado
 Sitúate en la carpeta `src` de tu espacio de trabajo y clona este repositorio:
 
