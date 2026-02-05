@@ -11,7 +11,7 @@ Sitúate en la carpeta `src` de tu espacio de trabajo y clona este repositorio:
 
 ```bash
 cd ~/ascam_ros2_ws/src
-git clone <TU_URL_DEL_REPOSITORIO> ascamera
+git clone https://github.com/OPEN-SOURCE-UPIITA/C-ROS.git ascamera
 
 ```
 
