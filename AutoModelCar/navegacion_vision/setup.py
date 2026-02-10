@@ -26,6 +26,7 @@ setup(
         'console_scripts': [
             'adq_video = vision.adqui_video:main',
             'proc_carril = vision.proc_carril:main', 
+            'detect_stop = vision.proc_senial:main',
         ],
     },
 )
